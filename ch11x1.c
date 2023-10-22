@@ -19,7 +19,7 @@ int main(int argc, char *argv[]){
     printf("%s\n", argv[2]);
     printf("%s\n", result);
 
-
+    /* what will the function look like? */
 
 
 
